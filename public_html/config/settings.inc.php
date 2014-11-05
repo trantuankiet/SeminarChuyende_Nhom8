@@ -1,0 +1,19 @@
+<?php
+define('_DB_SERVER_', 'mysql.hostinger.vn');
+define('_DB_NAME_', 'u163028367_ybym');
+define('_DB_USER_', 'u163028367_ybym');
+define('_DB_PASSWD_', '2[]@11[[]CV11CHM11');
+define('_DB_PREFIX_', 'ps_');
+define('_MYSQL_ENGINE_', 'MyISAM');
+define('_PS_CACHING_SYSTEM_', 'CacheMemcache');
+define('_PS_CACHE_ENABLED_', '0');
+define('_MEDIA_SERVER_1_', '');
+define('_MEDIA_SERVER_2_', '');
+define('_MEDIA_SERVER_3_', '');
+define('_COOKIE_KEY_', 'yIpKxLijJB2iWNL6r7fmXJq0W9Cfv3xtLtYGm19e28XBt2JFFprgOnm9');
+define('_COOKIE_IV_', '3BnwiujQ');
+define('_PS_CREATION_DATE_', '2014-09-27');
+if (!defined('_PS_VERSION_'))
+	define('_PS_VERSION_', '1.6.0.9');
+define('_RIJNDAEL_KEY_', '0E34I9mdk82PcdqX2pdEjvDWB3sgbKrK');
+define('_RIJNDAEL_IV_', 'Zmgmre8/LXvFIMkEClEGqw==');
