@@ -33,32 +33,55 @@
 			Theo dõi khách hàng như gửi voucher discount tới khách hàng cụ thể. Và, các quản lý discount cho khách hàng như : số lượng đơn hàng, Lost customer – khi mua hàng và đã lâu không trở lại website….
 	2.3Front Office Features modules 
 		2.3.1Banner block
+			Hiện banner cho Website
 		2.3.2Add  Sharethis
+			Add social button cho homepage : facebook, Google+
 		2.3.3Cart block
+			Hiển thị giỏ hàng
 		2.3.4Categories block
+			Trình bày danh sách categories cho trang web
 		2.3.5CMS block
+			Trên vào những vị trí với nhiều liên kết.
 		2.3.6Contact information block 
+			Liên hệ qua Email, số điện thoại, dịa chỉ và tên công ty
 		2.3.7Cross  Selling
+			Trình bày những sản phẫm liên quan
 		2.3.8Currency block
+			Đơn vị tiền tệ
 		2.3.9Custom CMS information block
+			Một block chứa thông tin khách hàng
 		2.3.10Customer data privacy block
 		2.3.11Customer reassurance block
 		2.3.12Facebook block
+			Hiển thi facebook fanpage
 		2.3.13Facebook sharing block
+			Chia sẻ sản phẩm qua facebook
 		2.3.14Favorite Product
+			Thêm sản phẩm vào danh sách sản phẩm yêu thích
 		2.3.15Featured Products on the homepage
+			Các hiễn thị sản phẫm trên homepage (Số sản phẫm hiển thị, trang muốn hiển thị…)
 		2.3.16Image slider for your homepage
+			Slider trên homepage
 		2.3.17Language block
+			Tuỳ chỉnh ngôn ngữ
 		2.3.18Layered navigation block
+			Các tuỳ chỉnh cho phép các công cụ tìm kiếm truy xuất vào những mục cụ thể trong website….
 		2.3.19Link block
 		2.3.20Manufacturers block
+			Các nhà cung cấp
 		2.3.21My account block
+			Quản lý tài khoản Page
 		2.3.22My account block for your web’s footer
+			Hiển thị các link với tài khoản trong phần footer
 		2.3.23New Product block
+			Hiển thị những sản phẫm mới trong tag homepage (new arrivals) – số ngày sản phẫm post lên
 		2.3.24Newsletter block
+			Cho phép khách hàng nhập mã voucher và discount 5% và tặng thêm một cuốn sách leadership (mã VB7IFKK5) Cart rule.
 		2.3.25Payment logo block
+			Các phương thức thanh toán với logo
 		2.3.26Product categories
 		2.3.27Product tooltips
+			Thông báo realtime tới khách hàng về thời gian cuối cùng mua sản phẫm, thời gian cuối cùng sản phẫm được thêm vào giỏ hàng…
 		2.3.28Suppliers block
 		2.3.29Tags block
 		2.3.30Top horizontal menu
@@ -66,6 +89,7 @@
 		2.3.32Top sellers block
 		2.3.33User info block
 		2.3.34Viewed products block
+			Danh sách các product vừa mới xem
 		2.3.35Whistlist block
 3.New Functions
 	3.1* Các function đã được liệt kê trên
