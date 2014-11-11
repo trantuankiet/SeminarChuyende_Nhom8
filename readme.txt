@@ -105,6 +105,8 @@
 		Module quản lý thời gian giao hàng theo nhiều phương thức.
 	3.7Zopim chat free
 		Chat trực tuyến giữa customer với người quản trị trên website.
+	3.8Magic Zoom Plus
+		Phóng to sản phẩm khi rê chuột vào.
 4.SEO & Performance
 	4.1SEO
 		Module Google sitemap.
